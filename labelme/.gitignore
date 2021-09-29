@@ -1,1 +1,3 @@
 labelme/*.pyc
+*.pyc
+mylabelsite/*.pyc
